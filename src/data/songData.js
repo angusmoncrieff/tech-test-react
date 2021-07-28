@@ -1,0 +1,42 @@
+export const songData = [
+    {
+        id: 'My Baby Just Cares for Me',
+        title: 'My Baby Just Cares for Me',
+        seq: 0,
+        key: 'A',
+        singer: 'Lorena',
+        showBold: false,
+    },
+    {
+        id: 'Superstition',
+        title: 'Superstition',
+        seq: 1,
+        key: 'Ebm',
+        singer: 'Lorena',
+        showBold: false,
+    },
+    {
+        id: 'Blame It on the Boogie',
+        title: 'Blame It on the Boogie',
+        seq: 2,
+        key: 'Cm',
+        singer: 'Lorena',
+        showBold: false,
+    },
+    {
+        id: 'Never Too Much',
+        title: 'Never Too Much',
+        seq: 3,
+        key: 'Bm',
+        singer: 'Jonny',
+        showBold: false,
+    },
+    {
+        id: 'Never Can Tell',
+        title: 'Never Can Tell',
+        seq: 4,
+        key: 'Bb',
+        singer: 'Jonny',
+        showBold: false,
+    },
+]

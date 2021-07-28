@@ -1,0 +1,43 @@
+body {
+    color: #444;
+}
+
+.song-in-list {
+    >button{
+        border: none;
+        background-color: transparent;
+        color: #444;
+        padding: 4px;
+        font-size: 1rem;
+    }
+}
+
+.bold {
+    >button{
+        font-weight: 900;
+        color: #000;
+    }
+}
+
+.highlight {
+    >button {
+        background-color: rgb(147, 217, 229);
+    }
+}
+
+
+.song-details {
+
+    & h2 {
+        margin-left: 10px;
+    }
+
+    & li {
+        margin-top: 4px;
+    }
+
+    & label {
+        display: inline-block;
+        width: 7rem;
+    }    
+}
